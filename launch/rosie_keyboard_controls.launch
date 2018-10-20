@@ -1,0 +1,6 @@
+<launch>
+	
+	<!-- run the object detector -->
+	<node pkg="rosie_keyboard_controls" type="rosie_keyboard_controls" name="rosie_keyboard_controls" />
+	
+</launch>
